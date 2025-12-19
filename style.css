@@ -1,11 +1,11 @@
 body {
-            background-color: aqua;
+            background-color: rgb(8, 145, 145);
         }
         h1 {
-            color: blueviolet;
+                        color: rgb(188, 150, 224);
             text-align: center;        
         }
-        p {font-family: Georgia;
+        p {font-family: Georgia, 'Times New Roman', Times, serif
             font-size: medium;
             font-weight: 100;
             flood-color: rgb(186, 212, 212);
