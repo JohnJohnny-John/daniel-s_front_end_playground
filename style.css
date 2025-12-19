@@ -1,0 +1,39 @@
+body {
+            background-color: aqua;
+        }
+        h1 {
+            color: blueviolet;
+            text-align: center;        
+        }
+        p {font-family: Georgia;
+            font-size: medium;
+            font-weight: 100;
+            flood-color: rgb(186, 212, 212);
+
+        }
+
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+
+        main {
+            flex: 1;
+            padding-bottom: 5px;
+        }
+
+        footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: #111;
+            color: #fff;
+            text-align: center;
+            padding: 5px;
+        }
