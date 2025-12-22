@@ -48,7 +48,7 @@ body {
             display: flex;
             gap: 20px
             margin: 0;
-            padding: 0;
+            padding: 0,0,1;
         }
 
         .nav-links a {
